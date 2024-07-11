@@ -1,5 +1,3 @@
-### Is this on? 
-
 [![Fogh's GitHub stats](https://github-readme-stats.vercel.app/api?username=fogh&hide=commits,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
