@@ -1,5 +1,9 @@
-[![Fogh's GitHub stats](https://github-readme-stats.vercel.app/api?username=fogh&hide=commits,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=fogh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=fogh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=fogh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Fogh/fogh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
